@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/doctrine-bundle",
+    "name": "vaskevicius/doctrine-bundle",
     "type": "symfony-bundle",
     "description": "Symfony DoctrineBundle",
     "keywords": ["DBAL", "ORM", "Database", "Persistence"],
